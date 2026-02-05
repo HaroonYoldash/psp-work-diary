@@ -1,7 +1,11 @@
-# Professional Software Projects GitHub Diary Guidance
+# Student Contribution Diary
 
-This repo contains
+**Name:** [Mohammad Haroon Yoldash]  
+**Student ID:** [32064492]  
+**Team Name:** [GTA]  
+**Weekly Session:** [Thursday 11:00]  
 
-- a guide to using GitHub for diary submissions.
-- a sample readme.md file page to create.
-- suggested weekly themes and structure for your diary.
+## Team Members
+* [Mohammad Haroon Yoldash]
+* [Asher Shafiq Hayat]
+* [Oliver Humphrey]
