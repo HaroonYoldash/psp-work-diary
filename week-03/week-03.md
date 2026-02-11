@@ -8,4 +8,3 @@
 
 ### Sprint Week Planning
 * **Daily Check-ins**: We plan to talk every day during the sprint to see if anyone is stuck or needs help.
-* **Priority Focus**: My main goal is to finish the Admin Dashboard so it can be integrated with the rest of the project.
